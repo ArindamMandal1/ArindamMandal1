@@ -10,11 +10,11 @@ Passionate about solving real-world problems with Python, C++, and the MERN Stac
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
 </p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sreejib-Nandy.Sreejib-Nandy"/>
+<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sreejib-Nandy.Sreejib-Nandy"/>
 <br/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Arindam+Mandal!;+CSE (AI ML)+Student+@+NSEC;+Aspiring+Software+Developer;+Turning+Logic+Into+Magic+✨;+Building+My+Coding+Universe+💫;" />
-</h1>
+</h1> -->
 
 <h3 align="center">A passionate software developer</h3>
 
