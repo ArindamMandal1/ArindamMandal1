@@ -65,9 +65,9 @@ Passionate about solving real-world problems with Python, C++, and the MERN Stac
   <br/>
 </div> -->
 
-<br/><br/>
+<!-- <br/><br/>
 
- <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+ <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/> -->
 <br/>
 
 <h1 align="center">Thanks for scrolling all the way!</h1>
