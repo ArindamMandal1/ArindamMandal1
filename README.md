@@ -76,7 +76,7 @@ Passionate about solving real-world problems with Python, C++, and the MERN Stac
 </h1>
 </h1>
 
-<h3 align="center" size="40">Connect with me</h3>
+<!-- <h3 align="center" size="40">Connect with me</h3>
 <p align="center">
   <a href="https://twitter.com/sreejib_nandy" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
@@ -92,7 +92,7 @@ Passionate about solving real-world problems with Python, C++, and the MERN Stac
   </a>
 </p>
 <br/>
-<br/>
+<br/> -->
 
 
 <h2 align="center">🐍 My Contributions</h2>
