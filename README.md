@@ -1,4 +1,13 @@
-![MasterHead](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
+<h1 align="center">Hi there, I'm Arindam Mandal 👋</h1>
+<h3 align="center">Aspiring AI & ML Engineer | Turning ideas into powerful digital experiences</h3>
+
+---
+
+🚀 **About Me**  
+I'm a passionate web developer helping businesses and startups craft fast, scalable, and modern digital products. From clean frontend interfaces to solid backend systems — I build end-to-end solutions that work, perform, and scale.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif"/>
+</p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sreejib-Nandy.Sreejib-Nandy"/>
 <br/>
