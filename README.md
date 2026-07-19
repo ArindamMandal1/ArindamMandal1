@@ -22,7 +22,7 @@ Passionate about solving real-world problems with Python, C++, and the MERN Stac
 
 <div align="center">
  
- 🔭 I’m currently working on [ResQFood — Real-Time Surplus Food Rescue Platform](https://github.com/ArindamMandal1/ResQFood_CodeCaptcha)
+ 🔭 Recent project [ResQFood — Real-Time Surplus Food Rescue Platform](https://github.com/ArindamMandal1/ResQFood_CodeCaptcha)
 
  🌱 I’m currently learning • 🤖 AI/ML • 🧬 Generative AI Engineering 
 
