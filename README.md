@@ -34,13 +34,13 @@ Passionate about solving real-world problems with Python, C++, and the MERN Stac
 
  
 <div align="center"> 
-  <a href="sreejibnandy2518@gmail.com">
+  <a href="arindammandal2006am@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/sreejib-nandy-9794b2321" target="_blank">
+  <a href="https://www.linkedin.com/in/arindam-mandal-040934323/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/Sreejib-Nandy" target="_blank">
+  <a href="https://github.com/ArindamMandal1" target="_blank">
      <img src="https://img.shields.io/badge/Github-333333?style=for-the-badge&logo=github&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
@@ -57,13 +57,13 @@ Passionate about solving real-world problems with Python, C++, and the MERN Stac
 <br/>
 <img align="center" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<!-- <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sreejib-Nandy&count_private=true&theme=react&border_radius=15" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=Sreejib-Nandy&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=15%22%20alt=%22readme%20stats" alt="readme stats" />
   <br/>
-</div>
+</div> -->
 
 <br/><br/>
 
