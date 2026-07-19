@@ -34,9 +34,9 @@ Passionate about solving real-world problems with Python, C++, and the MERN Stac
 
  
 <div align="center"> 
-  <a href="arindammandal2006am@gmail.com">
+ <a href="mailto:arindammandal2006am@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
+</a>
   <a href="https://www.linkedin.com/in/arindam-mandal-040934323/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
