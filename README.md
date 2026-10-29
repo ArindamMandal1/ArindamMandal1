@@ -22,8 +22,10 @@ Passionate about solving real-world problems with Python, C++, and the MERN Stac
 
 <div align="center">
  
- 🔭 Recent project [ResQFood — Real-Time Surplus Food Rescue Platform](https://github.com/ArindamMandal1/ResQFood_CodeCaptcha)
-
+ 🔭 Recent projects [ResQFood — Real-Time Surplus Food Rescue Platform](https://github.com/ArindamMandal1/ResQFood_CodeCaptcha),                                      
+                    [S.P.I.R.E - Soil Precision and Intelligent Robotic Ecosystem ](https://github.com/ArindamMandal1/S.P.I.R.E-1),                                 
+                       [Multi-Downloader](https://github.com/ArindamMandal1/Multi-Downloader)
+                    
  🌱 I’m currently learning • 🤖 AI/ML • 🧬 Generative AI Engineering 
 
  👯 I’m looking to collaborate on **Full-stack Web Projects, Hackathon Ideas & DSA-based tools**
